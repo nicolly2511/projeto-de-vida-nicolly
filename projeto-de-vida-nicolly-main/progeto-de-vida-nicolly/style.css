@@ -1,0 +1,20 @@
+:root{
+
+  --cor-de-fundo:rgb(51, 92, 51);  
+  --green:rgb(69, 150, 69); 
+  --green:rgb(55, 146, 55);
+  --botao-ativa:rgb(134, 134, 247);
+  --botao-inativo:red;
+  --texto-fundo:black;
+}
+
+body{
+ background-color:rgb(57, 114, 57);
+ color:var(--branco)
+}
+
+h2{
+    color:rgb(2, 243, 167);
+    font-family:caveat;
+    font-size: ;
+}
